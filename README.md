@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomiWD
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development & CCNA Networking
+- 👀 I’m interested in Full Stack Web Development
+- I'll upload all of my works here to follow my development.
 
 <!---
 TomiWD/TomiWD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
